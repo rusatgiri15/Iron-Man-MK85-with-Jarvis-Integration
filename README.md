@@ -10,6 +10,7 @@ Iron Man MK85 Helmet with HUD Display AI/Jarvis Integration made using Raspberry
 - Communication Interface/ Jarvis Voice Itegration
 - Object Recognition
 - Map with GPS coordinates
+- Directional Compass
 - Artificial Horizon with Roll & Tilt
   
 
