@@ -24,6 +24,14 @@ An **Arduino(Uno or Nano)** handles low-latency hardware tasks. It reads data fr
 - ### Actuators and Display:
 Based on real-time sensor processing, The Arduino drives a **1-meter strip of WS2812B RGB LEDs** segmented t illuminate the eyes, and coordinates twin **SG90/MG90S Servo Motors** to mechanicaly actuate the faceplate. Visual telementry is pushed to a **0.96" SSD1306 12C OLED Display**(or an upgraded **2.4" ILI9341 TFT SPI Display) acting as the primary HUD.
 
+## How to Use
+### Daily Use:
+Simply toggle the master switch on your USB power bank to boot up the dual-complete system. Align the EVA foam helmet shell and let the 10mm  X 3mm **Neodymium disc magnets** snap the faceplate securely into position.
+Once the system initializes, look directly through your HUD lens:
+- The **0.96" SSD1306 12C OLED Display** will render a telementry dashboard.
+- The **GY-521 MPU 6050** instantly stabilizes the flight-inspired artificial horizon, adapting smoothly to your head's roll,pitch and tilt.
+
+
 
 ## Key Features:
 - Heads-Up Display(HUD)
