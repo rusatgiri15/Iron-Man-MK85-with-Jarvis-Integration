@@ -54,7 +54,7 @@ Plug a standard USB-C cable into the main input port of the 20,000mAh power bank
 - Sensor Activated Eyes
 - Radar Feature
 - Retina/Eye Tracking
-- Communication Interface/ Jarvis Voice Itegration
+- Communication Interface/ Jarvis Voice nItegration
 - Object Recognition
 - Map with GPS coordinates
 - Directional Compass
