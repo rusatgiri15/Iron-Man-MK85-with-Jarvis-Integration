@@ -53,6 +53,18 @@ Plug a standard USB-C cable into the main input port of the 20,000mAh power bank
 - Directional Compass
 - Artificial Horizon with Roll & Tilt
 
+## Credits
+Thanks to [Hack Club](https://hackclub.com/) for giving us this wonderful platform!! Specifically [Hack Club Fallout](https://fallout.hackclub.com).
+
+### Some awesome software we used:
+- [KiCad](https://www.kicad.org/) for PCB designing.
+- [Onshape](https://www.onshape.com/en/) and [Fusion360](https://www.autodesk.com/products/fusion-360/overview) for 3D project designing.
+- [Visual Studio Code](https://code.visualstudio.com/) for IDE.
+- [Figma](https://www.figma.com/) for zine page design.
+
+### Awesome service used:
+- [GitHub](https://github.com/)(hosting project files)
+
 ## License
 MIT
   
