@@ -1,8 +1,6 @@
 # Iron-Man-MK85-with-Jarvis-Integration
 Iron Man MK85 Helmet with HUD Display AI/Jarvis Integration made using Raspberry Pi-4 and Arduino having features like Voice command, GPS interface, etc.
 
-## Our Project Design
-
 ## Why?
 We, being die-hard fans of the Marvel Cinematic Universe (MCU), especially Iron Man, have always dreamed of making this Iron Man helmet one day with all the features shown in the movies (except the flying one). This Iron Man helmet symbolizes the idea that humans can create extraordinary things through innovation and determination. Ever since we first saw the MK85 suit, we have been inspired by its futuristic design and the technology behind it. It sparked our curiosity about engineering. What inspired us the most was the relationship between Tony Stark and J.A.R.V.I.S., the artificial intelligence that assisted him in creating, improving, and controlling his inventions. This showed us how technology and human creativity can push beyond normal limits.
 
@@ -41,6 +39,15 @@ To engage the **JARVIS AI**, simply speak into the mask. The integrated **USB Mi
 ### How to charge the battery:
 Plug a standard USB-C cable into the main input port of the 20,000mAh power bank(or your alternative 18650 Li-ion charging rig). Thanks to built-in-power-path management and load sharing, you can ru diagnostics, update python scripts on the Pi 4, or calibrate the Arduino sensor threshlolds via a wall adapter without draining your cell capacity during desktop testing.
 
+## Build  Instruction
+### Mechanical and Miscallaneous Build Materials needed (the ones not mentioned above)
+1. A soldering iron & Solder
+2. Full-size 830-point Breadboard & Jumper wires
+3. Assorted resistor kit
+4. USB cables
+5. Hot Glue Gun + Glue Sticks
+
+
 ## Key Features:
 - Heads-Up Display(HUD)
 - Enviromental Protection/ Pollution-Adaptive Screen
@@ -53,13 +60,22 @@ Plug a standard USB-C cable into the main input port of the 20,000mAh power bank
 - Directional Compass
 - Artificial Horizon with Roll & Tilt
 
+## Our Project Designs
+
+### PCBs
+### 3D Models
+### Firmware 
+
+
+
+
 ## Credits
 Thanks to [Hack Club](https://hackclub.com/) for giving us this wonderful platform!! Specifically [Hack Club Fallout](https://fallout.hackclub.com).
 
 ### Some awesome software we used:
 - [KiCad](https://www.kicad.org/) for PCB designing.
 - [Onshape](https://www.onshape.com/en/) and [Fusion360](https://www.autodesk.com/products/fusion-360/overview) for 3D project designing.
-- [Visual Studio Code](https://code.visualstudio.com/) for IDE.
+- [Visual Studio Code](https://code.visualstudio.com/) for coding/IDE.
 - [Figma](https://www.figma.com/) for zine page design.
 
 ### Awesome service used:
